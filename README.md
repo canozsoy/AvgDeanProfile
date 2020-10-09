@@ -1,1 +1,2 @@
 # AvgDeanProfile
+profil.m takes several beach profiles as inputs in the same directory as the script. It will correct all profiles datum to zero line. Then, it will calculate average beach profile of the given profiles. Also, it will calculate the equilibrum beach profile (Dean Profile) for the average beach profile. Plot of these profiles is given after calculations. For more information check code's explanations.
